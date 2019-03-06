@@ -23,83 +23,83 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
     
 ## Transcript
 ```
-Me: Apakah kamu pernah memesan makanan secara online?
-B: Pernah, pake gofood
-Me: jika ya, bagaimana cara kamu memesannya?
-B: Ya pake aplikasi, trus dapet driver, trus dianter makannannya.
-Me: okay. Apakah kamu tau aplikasi web ini itsfood.id?
-B: Iya gatau, kan aku anak UNAIR hahaha, bener nggak sih jawabnya?
-Me: iya bener. Coba kamu bikin akun di website itu
-B: oke , brati daftar ya.
-(mencari tombol daftar, setelah muncul form , lalu user mengisi data-data yang dibutuhkan)
-B: udah?
-Me: iyaa
-(user menekan tombol Daftar)
-(lalu muncul pemberitahuan "Permintaan Anda akan diproses. Pemberitahuan akan terkirim ke email anda")
-B: oke sekarang apa?
-Me: Bukannya tadi suruh nge-cek email dulu ya?
-B: Enggak..
-Me: Okay, coba sekarang kamu Sign In pake akun yang tadi kamu buat
-(user mencari tombol Sign In, setelah muncul form, lalu user mengisi data-data yang dibutuhkan)
-(user menekan tombol Masuk)
-B: eh, kok ga bisa login? oh mungkin cek email dulu yaa
-Me: boleh , coba cek email
-B: kok ga ada email masuk ya. berarti email ku tadi ga terdaftar.
-Me: mungkin kamu lupa pasword?
-B: coba deh. 
-(mencari tombol Lupa Password)
-(user bingung karena tidak menemukan tombol Lupa Password)
-Me: kamu cari apa?
-B: tombol Lupa Password, kok ga ada ya, brati gabisa sign in
-Me: iya, ga memang ga ada.
-Me: Coba kamu cari makanan yang kamu suka di fitur search itu
-(user mengetikakan 'ayam', namun tidak ada hasil dan kembali ke halaman awal, dan muncul form sign in)
-B: kok ga bisa ya, malah muncul form sign in lagi.
-Me: coba di scroll ke bawah. Coba kamu order beberapa makanan trus cek di fitur kantong belanja.
-B: beberapa makanan tuh maksudnya, banyak menu atau banyak jumlah?
-Me: banyak menu.
-(user menekan beberapa makanan untuk di pesan)
-B: trus cek ya? dimana sih fitur belanjanya? oh ini
-(user terlihat kesusahan mencari tombol fitur belanja)
-(user terlihat kaget saat melihat jumlah quantity dari makanan yang ia pesan)
-Me: Apakah jumlah dari setiap makanan sesuai dengan yang kamu klik?
-B: Enggak, kok ini jadi banyak banget ya.
-Me: Coba kamu order makanan.
-B: oke.
-(user kembali ke halaman awal)
-(user memilih makanan yang akan dia pesan)
-(user menekan tombol fitur kantong belanja)
-(user terlihat bingung)
-B: yang ini ya? 
-(user menunjukkan tombol 'updates and checkout' dan terlihat tidak yakin)
-Me: iya
-(user menekan tombol 'updates and checkout')
-B: ya ga bisa order ,kan belom bisa login.
-Me: Coba kamu cari tombol OA nya dari itsfood.id, instagram, facebook, twitter dan, linked in.
-B: oke
-(user terlihat kebingungan)
-B: kok ga nemu?
-(setelah sekian lama)
-B: oh iyaa ini.
-(user menekan tombol gambar facebook)
-B: kok ga berfungsi yaa.
-Me: Coba ke atas
-(user scroll ke atas halaman website)
-Me: Menurutmu apa bedanya navbar tentang kami dan kontak?
-(user memenekan tombol Tentang Kami dan Kontak lalu membandingkan keduanya.)
-B: Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
-Me: Menurutmu itu harusnya gimana?
-B:Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
-Me: Coba cari tombol FAQ fitur
-(user mencari tombol FAQ fitur)
-B: kok ga ada ya..
-Me: iya emang ga ada, hehehe. Menurutmu di website ini harus ada tombol FAQ fitur ga?
-B: perlu sih, soalnya kan ini tentang order makanan. Seharusnya ada step by step nya gimana cara order makanan trus cara bayarnya juga.
-Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
-B: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
-Me: okay, makasih yaa
-B: udah? okay
-Me: iya udah.
+1. Me: Apakah kamu pernah memesan makanan secara online?
+2. B: Pernah, pake gofood
+3. Me: jika ya, bagaimana cara kamu memesannya?
+4. B: Ya pake aplikasi, trus dapet driver, trus dianter makannannya.
+5. Me: okay. Apakah kamu tau aplikasi web ini itsfood.id?
+6. B: Iya gatau, kan aku anak UNAIR hahaha, bener nggak sih jawabnya?
+7. Me: iya bener. Coba kamu bikin akun di website itu
+8. B: oke , brati daftar ya.
+9. (mencari tombol daftar, setelah muncul form , lalu user mengisi data-data yang dibutuhkan)
+10. B: udah?
+11. Me: iyaa
+12. (user menekan tombol Daftar)
+13. (lalu muncul pemberitahuan "Permintaan Anda akan diproses. Pemberitahuan akan terkirim ke email anda")
+14. B: oke sekarang apa?
+15. Me: Bukannya tadi suruh nge-cek email dulu ya?
+16. B: Enggak..
+17. Me: Okay, coba sekarang kamu Sign In pake akun yang tadi kamu buat
+18. (user mencari tombol Sign In, setelah muncul form, lalu user mengisi data-data yang dibutuhkan)
+19. (user menekan tombol Masuk)
+20. B: eh, kok ga bisa login? oh mungkin cek email dulu yaa
+21. Me: boleh , coba cek email
+22. B: kok ga ada email masuk ya. berarti email ku tadi ga terdaftar.
+23. Me: mungkin kamu lupa pasword?
+24. B: coba deh. 
+25. (mencari tombol Lupa Password)
+26. (user bingung karena tidak menemukan tombol Lupa Password)
+27. Me: kamu cari apa?
+28. B: tombol Lupa Password, kok ga ada ya, brati gabisa sign in
+29. Me: iya, ga memang ga ada.
+30. Me: Coba kamu cari makanan yang kamu suka di fitur search itu
+31. (user mengetikakan 'ayam', namun tidak ada hasil dan kembali ke halaman awal, dan muncul form sign in)
+32. B: kok ga bisa ya, malah muncul form sign in lagi.
+33. Me: coba di scroll ke bawah. Coba kamu order beberapa makanan trus cek di fitur kantong belanja.
+34. B: beberapa makanan tuh maksudnya, banyak menu atau banyak jumlah?
+35. Me: banyak menu.
+36. (user menekan beberapa makanan untuk di pesan)
+37. B: trus cek ya? dimana sih fitur belanjanya? oh ini
+38. (user terlihat kesusahan mencari tombol fitur belanja)
+39. (user terlihat kaget saat melihat jumlah quantity dari makanan yang ia pesan)
+40. Me: Apakah jumlah dari setiap makanan sesuai dengan yang kamu klik?
+41. B: Enggak, kok ini jadi banyak banget ya.
+42. Me: Coba kamu order makanan.
+43. B: oke.
+44. (user kembali ke halaman awal)
+45. (user memilih makanan yang akan dia pesan)
+46. (user menekan tombol fitur kantong belanja)
+47. (user terlihat bingung)
+48. B: yang ini ya? 
+49. (user menunjukkan tombol 'updates and checkout' dan terlihat tidak yakin)
+50. Me: iya
+51. (user menekan tombol 'updates and checkout')
+52. B: ya ga bisa order ,kan belom bisa login.
+53. Me: Coba kamu cari tombol OA nya dari itsfood.id, instagram, facebook, twitter dan, linked in.
+54. B: oke
+55. (user terlihat kebingungan)
+56. B: kok ga nemu?
+57. (setelah sekian lama)
+58. B: oh iyaa ini.
+59. (user menekan tombol gambar facebook)
+60. B: kok ga berfungsi yaa.
+61: Me: Coba ke atas
+62: (user scroll ke atas halaman website)
+63: Me: Menurutmu apa bedanya navbar tentang kami dan kontak?
+64: (user memenekan tombol Tentang Kami dan Kontak lalu membandingkan keduanya.)
+65: B: Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
+66: Me: Menurutmu itu harusnya gimana?
+67: B:Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
+68: Me: Coba cari tombol FAQ fitur
+69: (user mencari tombol FAQ fitur)
+70: B: kok ga ada ya..
+71: Me: iya emang ga ada, hehehe. Menurutmu di website ini harus ada tombol FAQ fitur ga?
+72: B: perlu sih, soalnya kan ini tentang order makanan. Seharusnya ada step by step nya gimana cara order makanan trus cara bayarnya juga.
+73: Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
+74: B: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
+75: Me: okay, makasih yaa
+76: B: udah? okay
+77: Me: iya udah.
 ```
 ## Models and Annotations
 ### Artifact Model
