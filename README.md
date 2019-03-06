@@ -19,7 +19,7 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
    <p> 1. shopping, </p>
     <p>2. look her GPA on the UNAIR website,</p>
     <p>3. do for her homework.</p>
-<p>because she is a student in UNAIR and never entered ITS, she doesnot know itsfood.id, so she absolutely no experience using itsfood.id. </p>
+<p>because she is a student in UNAIR and never have entered ITS, she doesnot know itsfood.id, so she absolutely no experience using itsfood.id. </p>
     
 ## Transcript
 ```
