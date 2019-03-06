@@ -83,18 +83,11 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 59. User : oh iyaa ini.
 60. (user menekan tombol gambar facebook)
 61. User : kok ga berfungsi yaa.
-62. Me   : Coba ke atas
-63. (user scroll ke atas halaman website)
-64. Me   : Menurutmu apa bedanya navbar tentang kami dan kontak?
-65. (user memenekan tombol Tentang Kami dan Kontak lalu membandingkan keduanya.)
-66. User : Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
-67. Me   : Menurutmu itu harusnya gimana?
-68. User : Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
-69. Me   : Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
-70. User : Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
-71. Me   : okay, makasih yaa
-72. User : udah? okay
-73. Me   : iya udah.
+62. Me   : Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
+63. User : Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
+64. Me   : okay, makasih yaa
+65. User : udah? okay
+66. Me   : iya udah.
 ```
 ## Models and Annotations
 ### Artifact Model
