@@ -9,8 +9,7 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 4.	Try to click order , then check troll(kantong belanja) feature
 5.	Try to order some food
 6.	Try to search itsfood.id facebook, twitter, instagram or linked in account
-7.	Try to search some information about the owner of itsfood.id.
-8.	Try to search FAQ feature 
+7.	Try to search FAQ feature 
 
 ## User Description
 <p>The user is a student of State Administration in Airlangga University.</p>
