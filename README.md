@@ -9,7 +9,6 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 4.	Try to click order , then check troll(kantong belanja) feature
 5.	Try to order some food
 6.	Try to search itsfood.id facebook, twitter, instagram or linked in account
-7.	Try to search FAQ feature 
 
 ## User Description
 <p>The user is a female. </p>
@@ -90,16 +89,11 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 65. User: Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
 66. Me: Menurutmu itu harusnya gimana?
 67. User: Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
-68. Me: Coba cari tombol FAQ fitur
-69. (user mencari tombol FAQ fitur)
-70. User: kok ga ada ya..
-71. Me: iya emang ga ada, hehehe. Menurutmu di website ini harus ada tombol FAQ fitur ga?
-72. User: perlu sih, soalnya kan ini tentang order makanan. Seharusnya ada step by step nya gimana cara order makanan trus cara bayarnya juga.
-73. Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
-74. User: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
-75. Me: okay, makasih yaa
-76. User: udah? okay
-77. Me: iya udah.
+68. Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
+69. User: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
+70. Me: okay, makasih yaa
+71. User: udah? okay
+72. Me: iya udah.
 ```
 ## Models and Annotations
 ### Artifact Model
