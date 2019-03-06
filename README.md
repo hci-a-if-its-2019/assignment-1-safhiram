@@ -31,7 +31,8 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 7. Me: iya bener. Coba kamu bikin akun di website itu
 8. User: oke , brati daftar ya.
 9. (mencari tombol daftar, setelah muncul form , lalu user mengisi data-data yang dibutuhkan)
-10. User: udah?
+10. (setelah mengisi pada bagian jurusan, user diam sejenak)
+11. User: eh, passwordnya kok keliatan(kaget). udah?
 11. Me: iyaa
 12. (user menekan tombol Daftar)
 13. (lalu muncul pemberitahuan "Permintaan Anda akan diproses. Pemberitahuan akan terkirim ke email anda")
