@@ -54,7 +54,7 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 30. Me   : iya, ga memang ga ada.
 31. Me   : Coba kamu cari makanan yang kamu suka di fitur search itu
 32. (user mengetikakan 'ayam', namun tidak ada hasil dan kembali ke halaman awal, dan muncul form sign in)
-33. User : kok ga bisa ya, malah muncul form sign in lagi.
+33. User : kok ga bisa ya, malah muncul form sign in lagi.(user merasa terganggu)
 34. Me   : coba di scroll ke bawah. Coba kamu order beberapa makanan trus cek di fitur kantong belanja.
 35. User : beberapa makanan tuh maksudnya, banyak menu atau banyak jumlah?
 36. Me   : banyak menu.
@@ -63,7 +63,7 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 39. (user terlihat kesusahan mencari tombol fitur belanja)
 40. (user terlihat kaget saat melihat jumlah quantity dari makanan yang ia pesan)
 41. Me   : Apakah jumlah dari setiap makanan sesuai dengan yang kamu klik?
-42. User : Enggak, kok ini jadi banyak banget ya.
+42. User : Enggak, kok ini jadi banyak banget ya. (user terlihat bingung)
 43. Me   : Coba kamu order makanan.
 44. User : oke.
 45. (user kembali ke halaman awal)
