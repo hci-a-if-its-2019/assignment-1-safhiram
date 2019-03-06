@@ -83,23 +83,23 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 58. B: oh iyaa ini.
 59. (user menekan tombol gambar facebook)
 60. B: kok ga berfungsi yaa.
-61: Me: Coba ke atas
-62: (user scroll ke atas halaman website)
-63: Me: Menurutmu apa bedanya navbar tentang kami dan kontak?
-64: (user memenekan tombol Tentang Kami dan Kontak lalu membandingkan keduanya.)
-65: B: Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
-66: Me: Menurutmu itu harusnya gimana?
-67: B:Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
-68: Me: Coba cari tombol FAQ fitur
-69: (user mencari tombol FAQ fitur)
-70: B: kok ga ada ya..
-71: Me: iya emang ga ada, hehehe. Menurutmu di website ini harus ada tombol FAQ fitur ga?
-72: B: perlu sih, soalnya kan ini tentang order makanan. Seharusnya ada step by step nya gimana cara order makanan trus cara bayarnya juga.
-73: Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
-74: B: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
-75: Me: okay, makasih yaa
-76: B: udah? okay
-77: Me: iya udah.
+61. Me: Coba ke atas
+62. (user scroll ke atas halaman website)
+63. Me: Menurutmu apa bedanya navbar tentang kami dan kontak?
+64. (user memenekan tombol Tentang Kami dan Kontak lalu membandingkan keduanya.)
+65. B: Menurutku kalo di halaman Tentang Kami, ada menu dan sosmed nya , kalo di halaman kontak ya cuma kontaknya aja.
+66. Me: Menurutmu itu harusnya gimana?
+67. B:Kalo di halaman Tentang Kami tuh seharusnya deskripsiin website ini tuh gimana. Kalo kontak ya kontak perusahaan atau orang yang punya aja sih sama sosial media itsfood.id.
+68. Me: Coba cari tombol FAQ fitur
+69. (user mencari tombol FAQ fitur)
+70. B: kok ga ada ya..
+71. Me: iya emang ga ada, hehehe. Menurutmu di website ini harus ada tombol FAQ fitur ga?
+72. B: perlu sih, soalnya kan ini tentang order makanan. Seharusnya ada step by step nya gimana cara order makanan trus cara bayarnya juga.
+73. Me: Menurutmu dari semua fitur yang ada di website ini gimana? Memuaskan ga?
+74. B: Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi.
+75. Me: okay, makasih yaa
+76. B: udah? okay
+77. Me: iya udah.
 ```
 ## Models and Annotations
 ### Artifact Model
