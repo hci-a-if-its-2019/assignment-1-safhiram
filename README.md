@@ -12,13 +12,14 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 7.	Try to search FAQ feature 
 
 ## User Description
-<p>The user is a student of State Administration in Airlangga University.</p>
-<p>She is twenty years old now and she in fourth semester.</p>
+<p>The user is a female. </p>
+<p>She is a student in State Administration in Airlangga University.</p>
+<p>She has experience using a website. </p>
 <p>She usually use a website for :</p>
    <p> 1. shopping, </p>
     <p>2. look her GPA on the UNAIR website,</p>
     <p>3. do for her homework.</p>
-    
+<p>because she is a student in UNAIR and never entered ITS, she doesnot know itsfood.id, so she absolutely no experience using itsfood.id. </p>
     
 ## Transcript
 ```
