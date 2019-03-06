@@ -13,12 +13,12 @@ To make a contextual inquirity and analysis, i make some of instruction for the 
 8.	Try to search FAQ feature 
 
 ## User Description
-The user is a student of State Administration in Airlangga University. 
-She is twenty years old now and she in fourth semester. 
-She usually use a website for : 
-    1. shopping, 
-    2. look her GPA on the UNAIR website,
-    3. do for her homework.
+<p>The user is a student of State Administration in Airlangga University.</p>
+<p>She is twenty years old now and she in fourth semester.</p>
+<p>She usually use a website for :</p>
+   <p> 1. shopping, </p>
+    <p>2. look her GPA on the UNAIR website,</p>
+    <p>3. do for her homework.</p>
 ## Transcript
 ```
 Me: Apakah kamu pernah memesan makanan secara online?
