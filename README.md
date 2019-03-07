@@ -134,7 +134,7 @@
 105. User   : "Sebenernya dari tampilan websitenya udah bagus sih, cuman mungkin website ini dalam tahap pengembangan, jadinya banyak tombol dan fitur yang engga berfungsi. Trus juga form log in dikurangin munculnya."
 106. Me     : "okay, makasih yaa"
 107. User   : "Ini kamu buat sendiri fhir webnya?"
-108. Me     : "enggak kok, website ini bukan punyak"u
+108. Me     : "enggak kok, website ini bukan punyaku"
 109. User   : "udah? okay"
 110. Me     : "iya udah."
 
