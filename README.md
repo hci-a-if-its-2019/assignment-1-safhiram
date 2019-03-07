@@ -4,7 +4,7 @@
 * <p>Human and Computer Interaction A</p>
 <hr>
 
-## Device/ App/ Website Description
+## <i>itsfood.id</i> Description
 <img src="1.PNG">
 <p>itsfood.id is a website which provide order for food, beverages and snacks. There are many of delicous food from Indonesia, Western, and Asia. While, for the beverages there are many kind Tea, Coffee, Juice and mineral water. In this website, we can order online  for some food, beverages and snacks.</p>
 <p>There are many feature in this website. In this occasion, i will make a contextual inquiry and analysis for this website.</p>
@@ -162,7 +162,7 @@
 
 ### Cultural Model
 
-<img src="culfix.PNG" width="70%">
+<img src="culfixfix.PNG" width="70%">
 
 ### Do's and Don't's
 There are several things that itsfood.id must do and don't (based on this contextual analysis):
