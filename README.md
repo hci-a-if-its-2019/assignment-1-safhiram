@@ -5,22 +5,22 @@
 <p>There are many feature in this website. In this occasion, i will make a contextual inquiry and analysis for this website.</p>
 ## Instruction Script
 <p>To make a contextual inquirity and analysis, i make some of instruction for the user. Bellow is the following instruction:</p>
-   <p>1.	Make a account , Try registration feature</p>
-   <p>2.	Try to loggin</p>
-   <p>3.	Try to search user’s favorite food with search feature</p>
-   <p>4.	Try to click order , then check “kantong belanja” feature</p>
-   <p>5.	Try to order some food</p>
-   <p>6.	Try to search itsfood.id facebook, twitter, instagram or linkedin account</p>
-   <p>7.	Try to search some information about the owner of itsfood.id.</p>
-   <p>8.	Try to search FAQ feature</p>
+*  <p>1.	Make a account , Try registration feature</p>
+*  <p>2.	Try to loggin</p>
+*  <p>3.	Try to search user’s favorite food with search feature</p>
+*  <p>4.	Try to click order , then check “kantong belanja” feature</p>
+*  <p>5.	Try to order some food</p>
+*  <p>6.	Try to search itsfood.id facebook, twitter, instagram or linkedin account</p>
+*  <p>7.	Try to search some information about the owner of itsfood.id.</p>
+*  <p>8.	Try to search FAQ feature</p>
 
 ## User Description
-<p>The user is a female. </p>
-<p>She is a student in State Administration in Airlangga University.</p>
-<p>She has experience using a website. </p>
-<p>She usually use a website for shopping, look her GPA on the UNAIR website and do for her homework.</p>
-<p>because she is a student in UNAIR and never have entered ITS, she doesnot know itsfood.id.</p>
-<p>So she absolutely no experience using itsfood.id. </p>
+* <p>The user is a female. </p>
+* <p>She is a student in State Administration in Airlangga University.</p>
+* <p>She has experience using a website. </p>
+* <p>She usually use a website for shopping, look her GPA on the UNAIR website and do for her homework.</p>
+* <p>because she is a student in UNAIR and never have entered ITS, she doesnot know itsfood.id.</p>
+* <p>So she absolutely no experience using itsfood.id. </p>
     
 ## Transcript
 ```
@@ -137,25 +137,33 @@
 
 ```
 ## Models and Annotations
-### Artifact Model
-1. <img src="a1.PNG">
-2. <img src="a2.PNG">
-3. <img src="a3.PNG">
-4. <img src="a4.PNG">
+### Artifact Mode
+
+<h4>1.</h4>
+<img src="a1.PNG">
+<h4>2.</h4>
+<img src="a2.PNG">
+<h4>3.</h4>
+<img src="a3.PNG">
+<h4>4.</h4>
+<img src="a4.PNG">
 ### Flow Model
-<img src="flow.PNG">
+<img src="flow.PNG" style="width:100%;">
 ### Cultural Model
-<img src="cultural.PNG">
+<img src="cultural.PNG" style="width:100%;">
+
 ### Do's and Don't's
-There are several things that itsfood.id must to basedon this contextual analysis:
+There are several things that itsfood.id must do and don't (based on this contextual analysis):
+
 ## DO
-•	Make Forgot Password button.
-•	Change ‘By clicking register, I agree to your terms’ button name to FAQ button name.
-•	Make an alert if there is no result in search feature.
-•	Change the position of the order form so there is not a lot of empty space.
+*	Make Forgot Password button.
+*	Change ‘By clicking register, I agree to your terms’ button name into FAQ button name.
+*	Make an alert if there is no result in search feature.
+*	Change the position of the order form so there is not a lot of empty space.
+
 ## DON’T
-•	Show the password input , just make password input not visible
-•	Put any nonfunctional button
-•	Put troll feature behind the itsmine box
-•	often show sign in fiture.
+*	Show the password input , just make password input not visible
+*	Put any nonfunctional button
+*	Put troll feature behind the itsmine box
+*	often show sign in fiture.
 
