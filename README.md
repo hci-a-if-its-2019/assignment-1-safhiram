@@ -157,7 +157,7 @@
 
 ### Cultural Model
 
-<img src="cul.PNG" width="80%">
+<img src="culfix.PNG" width="70%">
 
 ### Do's and Don't's
 There are several things that itsfood.id must do and don't (based on this contextual analysis):
