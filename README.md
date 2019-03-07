@@ -1,7 +1,7 @@
 # Contextual Inquiry and Analysis
-<h5>Safhira Maharani</h5>
-<h5>05111740000027</h5>
-<h5>Human and Computer Interaction A</h5>
+* <p>Safhira Maharani</p>
+* <p>05111740000027</p>
+* <p>Human and Computer Interaction A</p>
 <hr>
 
 ## Device/ App/ Website Description
