@@ -1,4 +1,9 @@
 # Contextual Inquiry and Analysis
+<h5>Safhira Maharani</h5>
+<h5>05111740000027</h5>
+<h5>Human and Computer Interaction A</h5>
+<hr>
+
 ## Device/ App/ Website Description
 <img src="1.PNG">
 <p>itsfood.id is a website which provide order for food, beverages and snacks. There are many of delicous food from Indonesia, Western, and Asia. While, for the beverages there are many kind Tea, Coffee, Juice and mineral water. In this website, we can order online  for some food, beverages and snacks.</p>
@@ -11,7 +16,7 @@
 *  <p>	Make a account , Try registration feature</p>
 *  <p>	Try to loggin</p>
 *  <p>	Try to search user’s favorite food with search feature</p>
-*  <p>	Try to click order , then check “kantong belanja” feature</p>
+*  <p>	Try to click order , then check troll feature</p>
 *  <p>	Try to order some food</p>
 *  <p>	Try to search itsfood.id facebook, twitter, instagram or linkedin account</p>
 *  <p>	Try to search some information about the owner of itsfood.id.</p>
