@@ -179,3 +179,12 @@ There are several things that itsfood.id must do and don't (based on this contex
 *	Put troll feature behind the itsmine box
 *	often show sign in fiture.
 
+
+# Remarks
+> * This assignment report is very well written. Thank you for all the efforts you put on it. Good job!
+> * As an alternative to `an alert if there is no result in search feature` you can also use what so called `empty state`. Please visit this link for its examples: [https://emptystat.es/](https://emptystat.es/)
+> * All the models are well annotated, except for `Artifact Model` #1 #2 #3. It seems you forgot to write the line-numbers referring to the `Transcript` for those breakdowns/barriers.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 3            | 31               | 0               | 90,5               | 82,5       | 88,9  |
